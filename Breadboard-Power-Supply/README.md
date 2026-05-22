@@ -1,3 +1,6 @@
+<p align="center">
+<img width="340" height="561" alt="Screenshot 2026-05-22 150440" src="https://github.com/user-attachments/assets/2a7a63c5-e329-4f31-8f82-f80aaa692749" />
+
 ## 🛠️ Technical Highlights
 
 * 🔌 **Master Power Control**
