@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project%20Status-Completed-success">
-  <img src="https://img.shields.io/badge/Difficulty-Beginner%20Friendly-brightgreen">
   <img src="https://img.shields.io/badge/ECAD-KiCad-blue">
 </p>
 
